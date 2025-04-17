@@ -1,0 +1,9 @@
+# .gitignore
+
+bot_token.py
+
+moodle/__init__.py
+bot/__init__.py
+models/__init__.py
+utils/__init__.py
+
