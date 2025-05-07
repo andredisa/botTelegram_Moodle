@@ -26,7 +26,7 @@ This Telegram bot integrates with the [Moodle](https://moodle.org/) platform, al
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/botTelegram_Moodle.git
+git clone https://github.com/andredisa/botTelegram_Moodle.git
 cd telegram-moodle-bot
 ```
 
